@@ -1,16 +1,12 @@
 ### Hi! I am Janice Malu 👋
 
-<!--
-**jannmalu/jannmalu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...Java for Android
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🌱 I’m currently learning ...Java for Android
 - 💬 Ask me about ... anything
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 How to reach me: ...[Twitter](https://twitter.com/MbeteMalu) 
+[Instagram](https://www.instagram.com/mbete.malu/)
+[Gmail](jannmalu@gmail.com)
 - ⚡ Fun fact: ...
 
